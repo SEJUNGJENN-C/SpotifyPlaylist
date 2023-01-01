@@ -1,7 +1,7 @@
 # SpotifyPlaylist
 
 ### 🎹What is the 'recipe' for winning tracks?🤔
-We sometimes wonder what makes a track successful these days? \n
+We sometimes wonder what makes a track successful these days?
 With this question in mind, I gathered various information and audio features – danceability, speechiness or liveness – of the top tracks in the last 5 years.
 
 #### Audio Features:
